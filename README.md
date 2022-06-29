@@ -1,6 +1,8 @@
 # GCPkgMgr
-A package manager for grasscutter
+A package manager for grasscutter  
 
+
+**仓库已移动至[gc-toolkit/GCPkgMgr](https://github.com/gc-toolkit/GCPkgMgr)**  
 ## 展示
 
 ![命令帮助](Preview/default.png)
